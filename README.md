@@ -17,4 +17,4 @@ There are  two given logical address trace files (bzip.trace & gcc.trace) from t
 - arg1: **LRU** to use LRU (Least Recently Used) page replacement algorithm or **SC** to use Second Chance page replacement algorithm
 - arg2: number of main memory frames (positive integer number)
 - arg3: ontinuous number of traces to read before start reading from the other file
-- arg4: optional, the total Number of traces to read (from both files)
+- arg4: optional, the total number of traces to read (from both files)
