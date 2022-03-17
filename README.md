@@ -1,4 +1,4 @@
-# page-replacement-algorithms-simulation
+# Page Replacement Algorithms Simulation
 An 'LRU' &amp; 'Second Chance' Simulation Implementation for the OS Course in Univesity of Athens
 
 ## Description
